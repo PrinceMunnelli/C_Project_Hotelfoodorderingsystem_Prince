@@ -8,7 +8,7 @@ An automated, menu-driven console application built in standard C for managing h
 
 1. **Prince Munnelli (Team Leader)** * **Roll Number:** [46]
    * **Contribution:** Project setup, main menu loop, and core file handling systems (`hotelfoodsys.c`).
-2. **[Puttraj]**
+2. **[Puttaraj]**
    * **Roll Number:** [51]
    * **Contribution:** Implemented the multi-cuisine menu display and order placement functions.
 3. **[Amruth]**
