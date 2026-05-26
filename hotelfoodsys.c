@@ -1,8 +1,3 @@
-/*******************************************************************************
- * PROJECT 10: HOTEL FOOD ORDERING SYSTEM (KEY-VALUE LOCAL LOGGING)
- * Course: Ethnotech C Training
- * Instructor: Jaswanth Narne
- *******************************************************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
